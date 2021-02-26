@@ -1,0 +1,54 @@
+body {
+  background-color: lightblue;
+
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+h1 {
+  color: white; text-align: center;
+}
+
+h3 {
+  color: white;
+  text-align:center;
+  float: center
+}
+
+b {
+  color: white;
+  text-align:center;
+  float:center;
+}
+
+
+h2 {
+  color: navy; text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+  float:center;
+
+}
+
+img { text-align: center; 
+
+}
+
+a { text-align: center; }
+
+div {
+  background-color: navy;
+  opacity: 1;
+}
+
+.myDiv {
+  border: 12px outset white;
+  background-color: navy;
+  text-align: center;
+  margin-bottom: 20px;
+}
